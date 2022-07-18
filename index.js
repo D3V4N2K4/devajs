@@ -34,7 +34,6 @@ document.querySelectorAll(".drum")[i].addEventListener("click",function(i){
     default:
     break;
 }
-
 }
 )
 }
